@@ -9,7 +9,7 @@ I'm a computer science graduate with over a year of hands-on experience in the i
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [emreguenduez@protonmail.com](mailto:emreguenduez@protonmail.com)
 * 🧠  I'm learning .NET, Kubernetes, and more!
-* ⚡  I love photography and learning new languages. I currently speak Spanish, English, and a little bit of German
+* ⚡  I love photography and learning new languages. My native tongue is Turkish and I currently speak Spanish, English, and a little bit of German
 
 ### Skills
 
