@@ -1,7 +1,7 @@
 Hi 👋 My name is Emre Gündüz
 ============================
 
-Software Engineer and Data Scientist
+Software and Machine Learning Engineer
 ------------------------------------
 
 I'm a computer science graduate with over a year of hands-on experience in the industry. I have worked as a data scientist and ML Engineer and am now a software engineer.
