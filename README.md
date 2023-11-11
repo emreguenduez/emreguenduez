@@ -4,11 +4,11 @@ Hi 👋 My name is Emre
 Software and Machine Learning Engineer
 ------------------------------------
 
-I'm a computer science graduate with over a year of hands-on experience in the industry. I have worked as a data scientist and ML Engineer and am now a software engineer.
+I'm a software engineer with over 2 years of experience in the top defense firm in Turkey.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [emreguenduez@protonmail.com](mailto:emreguenduez@protonmail.com)
-* 🧠  I'm learning .NET, Kubernetes, and more!
+* 🧠  I mainly code in .NET and flutter, but I am also learning JS and more!
 * ⚡  I love photography and learning new languages. My native tongue is Turkish and I currently speak Spanish, English, and a little bit of German
 
 ### Skills
