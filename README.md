@@ -1,4 +1,4 @@
-Hi 👋 My name is Emre Gündüz
+Hi 👋 My name is Emre!
 ============================
 
 Software Engineer
